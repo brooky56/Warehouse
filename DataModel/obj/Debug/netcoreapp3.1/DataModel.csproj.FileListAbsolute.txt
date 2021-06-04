@@ -1,0 +1,8 @@
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfoInputs.cache
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\obj\Debug\netcoreapp3.1\DataModel.AssemblyInfo.cs
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\obj\Debug\netcoreapp3.1\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\bin\Debug\netcoreapp3.1\DataModel.deps.json
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\bin\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\bin\Debug\netcoreapp3.1\DataModel.pdb
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\obj\Debug\netcoreapp3.1\DataModel.dll
+C:\Users\aidar\source\repos\WarehouseTestAPI\DataModel\obj\Debug\netcoreapp3.1\DataModel.pdb
